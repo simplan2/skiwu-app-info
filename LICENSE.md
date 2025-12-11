@@ -22,7 +22,6 @@ Prohibido:
 
 ### MARCAS REGISTRADAS
 "Skiwu Downloader" es una marca de Juan Esteban V.
-Todas las demás marcas mencionadas son propiedad de sus respectivos dueños.
 
 ### CONTACTO LEGAL
 Para permisos especiales o licencias contacte con el autor.
