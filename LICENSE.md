@@ -2,7 +2,7 @@
 
 ## PROPIEDAD INTELECTUAL
 
-Copyright (c) 2025 J.E.V. Todos los derechos reservados.
+Copyright (c) 2025 skiwu. Todos los derechos reservados.
 
 ### DERECHOS RESERVADOS
 El software "Skiwu Downloader" y su código fuente son propiedad 
