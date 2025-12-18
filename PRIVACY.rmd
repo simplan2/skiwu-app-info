@@ -1,0 +1,27 @@
+# Política de Privacidad de Skiwu
+
+**Última actualización:** 16 de diciembre de 2024
+
+## Información que Recopilamos
+
+Skiwu recopila únicamente información técnica necesaria para el funcionamiento de la aplicación:
+- Información técnica del dispositivo (sistema operativo, versión de la app)
+- Datos de registro para diagnóstico de errores
+
+## Uso de la Información
+
+La información recopilada se utiliza exclusivamente para:
+- Mantener y mejorar la aplicación Skiwu
+- Diagnosticar y solucionar problemas técnicos
+
+## Compartición de Datos
+
+No compartimos información, ya que esa aplicación no gestiona ni almacena datos personales.
+
+## Cambios
+
+Podemos actualizar esta política ocasionalmente. Los cambios significativos serán notificados en esta página.
+
+## Contacto
+
+Para preguntas sobre privacidad: [https://github.com/simplan2/skiwu-app-info](https://github.com/simplan2/skiwu-app-info)

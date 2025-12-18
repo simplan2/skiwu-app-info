@@ -18,7 +18,7 @@ Una aplicación gratuita para gestionar y organizar descargas de archivos de aud
 - **Requiere cuenta personal válida en Qobuz**
 - **Debes cumplir con los Términos de Servicio de Qobuz**
 
-## ⬇️ Obtener la Aplicación
+## Obtener la Aplicación
 
 **Windows - v1.1.0**
 - [Instalador .exe](https://simplan2.github.io/skiwu-app-info/releases/windows/SkiwuDownloader-Setup.exe) (Recomendado)
@@ -28,7 +28,7 @@ Una aplicación gratuita para gestionar y organizar descargas de archivos de aud
 - [APK Directo](https://simplan2.github.io/skiwu-app-info/releases/android/SkiwuDownloader.apk)
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.tuusuario.skiwu) *Próximamente*
 
-## 🖥️📲 Requisitos Técnicos
+## Requisitos Técnicos
 
 **Específicos de Windows:**
 - Windows 10/11
@@ -42,7 +42,7 @@ Una aplicación gratuita para gestionar y organizar descargas de archivos de aud
 
 Adicionalmente usted debe tener **Conexión a Internet**
 
-## 📄 Licencia y Términos
+## Licencia y Términos
 
 ### Propiedad Intelectual
 - El código fuente es propiedad de Juan Esteban V.
@@ -52,7 +52,7 @@ Adicionalmente usted debe tener **Conexión a Internet**
 - Uso gratuito para usuarios legítimos
 - **[EULA](EULA.md)** - Acuerdo de usuario final
 
-## ⚠️ Descargo de Responsabilidad
+## Descargo de Responsabilidad
 Skiwu Downloader NO está asociado a Qobuz. Es un gestor de descargas independiente que requiere TU cuenta legal de Qobuz. 
 Esta herramienta es para gestión personal de contenido legal, el desarrollador no se hace responsable de su mal uso.
 
@@ -60,7 +60,7 @@ Esta herramienta es para gestión personal de contenido legal, el desarrollador 
 - De cumplir los Términos de Qobuz y las leyes de copyright.
 - Del uso que des a tu cuenta y a tus credenciales.
 
-## 🌟 Opciones de Apoyo:
+## Opciones de Apoyo:
 Esta aplicación es **completamente gratuita**. 
 Tu apoyo ayuda a mantenerla activa.
 
