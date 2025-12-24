@@ -21,7 +21,7 @@ Una aplicación gratuita para gestionar y organizar descargas de archivos de aud
 ## Obtener la Aplicación
 
 **Windows - v1.1.0**
-- [Instalador .exe](https://simplan2.github.io/skiwu-app-info/releases/windows/SkiwuDownloader-Setup.exe) (Recomendado)
+- [Instalador .exe](https://simplan2.github.io/skiwu-app-info/releases/windows/SkiwuDownloader-Setup.exe)
 - [Portable .zip](https://simplan2.github.io/skiwu-app-info/releases/windows/SkiwuDownloader-Portable.zip)
 
 **Android - v1.0.0**
