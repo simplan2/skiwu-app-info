@@ -5,7 +5,7 @@
 Copyright (c) 2025 skiwu. Todos los derechos reservados.
 
 ### DERECHOS RESERVADOS
-El software "Skiwu Downloader" y su código fuente son propiedad 
+El software "Skiwu" y su código fuente son propiedad 
 intelectual exclusiva de Juan Esteban V. 
 
 ### CONCESIÓN LIMITADA
@@ -21,7 +21,7 @@ Prohibido:
 - La comercialización del software
 
 ### MARCAS REGISTRADAS
-"Skiwu Downloader" es una marca de Juan Esteban V.
+"Skiwu" es una marca de Juan Esteban V.
 
 ### CONTACTO LEGAL
 Para permisos especiales o licencias contacte con el autor.
