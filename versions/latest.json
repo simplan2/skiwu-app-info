@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
-  "releaseNotesUrl": "https://github.com/simplan2/skiwu-app-info/releases/tag/v1.1.0-portable",
-  "downloadUrlExe": "https://github.com/simplan2/skiwu-app-info/releases/download/v1.1.0-portable/Skiwu-Portable-v1.1.0.zip",
+  "version": "1.2.0",
+  "releaseNotesUrl": "https://github.com/simplan2/skiwu-app-info/releases/download/v1.2.0/Skiwu-v1.2.0.Portable.zip",
+  "downloadUrlExe": "https://github.com/simplan2/skiwu-app-info/releases/download/v1.2.0/skiwu-setup-x64.exe",
   "repoInfoUrl": "https://simplan2.github.io/skiwu-app-info/versions/latest.json",
   "releasesUrl": "https://github.com/simplan2/skiwu-app-info/releases",
-  "publishedDate": "2025-12-10T12:00:00Z",
+  "publishedDate": "2026-03-21T12:00:00Z",
   "mandatory": false
 }
